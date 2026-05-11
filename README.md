@@ -18,7 +18,7 @@ Welcome to my space! Here I share content designed for beginners and curious min
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulocussema&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />  
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
   <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
