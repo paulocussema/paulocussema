@@ -1,4 +1,4 @@
-### Hi, I'm Paulo Cussema
+# Hi, I'm Paulo Cussema
 
 <p>
   <img 
