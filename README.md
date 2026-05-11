@@ -17,7 +17,13 @@ Welcome to my space! Here I share content designed for beginners and curious min
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulocussema&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+  />  
+
+  <img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulocussema@gmail.com)
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
