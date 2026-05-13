@@ -1,5 +1,5 @@
-# Hi, I'm Paulo Cussema
-**Guitarist, iOS Developer & Cybersecurity**
+# Hi, I'm Paulo Mendes
+**iOS Developer & Cybersecurity**
 
 **Happy is the one who shares what they know and learns what they teach. -Cora Coralina**           
 Welcome to my space! Here I share content designed for beginners and curious minds exploring the world of technology.
