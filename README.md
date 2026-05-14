@@ -1,5 +1,5 @@
 # Hi, I'm Paulo Elizandro
-**iOS Developer, Data Scientist & Cybersecurity**
+**Cybersecurity/Penetration Tester**
            
 Welcome to my space! Here I share content designed for beginners and curious minds exploring the world of technology.
 <p>
