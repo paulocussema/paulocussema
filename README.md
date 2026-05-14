@@ -1,5 +1,5 @@
 # Hi, I'm Paulo Elizandro
-**iOS Developer & Cybersecurity**
+**iOS Developer, Data Scientist & Cybersecurity**
            
 Welcome to my space! Here I share content designed for beginners and curious minds exploring the world of technology.
 <p>
